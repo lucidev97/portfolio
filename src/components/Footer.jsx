@@ -27,15 +27,15 @@ const sitemap = [
   const socials = [
     {
       label: 'GitHub',
-      href: 'https://www.github.com/codewithsadee-org'
+      href: 'https://github.com/karimkane26'
     },
     {
       label: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/codewithsadee'
+      href: 'https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHArfjgV9D38AAAAZQsrA6IQDjUdd70CS3qjQUnLL4X8QVf8eJ_G_cN7UPZIeIN9mnpdg-xJUP5-7RijBaHKEgtnxZZFNqm6kAxhyBWV9XtFqcmdVOvJGkEUoHtUPAJL6WxzXA=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabdoul-karim-kane-516396209'
     },
     {
       label: 'Twitter X',
-      href: 'https://x.com/codewithsadee_'
+      href: 'https://www.linkedin.com/authwall?trk=gf&trkInfo=AQHArfjgV9D38AAAAZQsrA6IQDjUdd70CS3qjQUnLL4X8QVf8eJ_G_cN7UPZIeIN9mnpdg-xJUP5-7RijBaHKEgtnxZZFNqm6kAxhyBWV9XtFqcmdVOvJGkEUoHtUPAJL6WxzXA=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fabdoul-karim-kane-516396209'
     },
     {
       label: 'Instagram',
@@ -43,7 +43,7 @@ const sitemap = [
     },
     {
       label: 'CodePen',
-      href: 'https://codepen.io/codewithsadee'
+      href: 'https://codepen.io/Abdoul-karim-Kane'
     }
   ];
 export const Footer = () => {
