@@ -3,11 +3,11 @@ import React from "react";
 const aboutItems = [
     {
       label: 'Project done',
-      number: 45
+      number: 7
     },
     {
       label: 'Years of experience',
-      number: 10
+      number: 2
     }
   ];
 export const About = () => {
