@@ -56,7 +56,7 @@ export const Footer = () => {
             Let&apos;s work together today!
 
             <ButtonPrimary 
-            href="maito:lucidev97@gmail.com"
+            href="mailto:lucidev97@gmail.com"
             label="Start project"
             icon="chevron_right"
             className="reveal-up"
