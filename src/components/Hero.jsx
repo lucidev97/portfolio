@@ -29,7 +29,7 @@ export const Hero = () => {
           <div className="flex items-center gap-3">
             {/* Bouton pour télécharger le CV */}
             <ButtonPrimary
-              href="/cv/Abdoul_Karim_CV.pdf"
+              href="/cv/MONCV.pdf"
               label="Download CV"
               icon="download"
               download={true} // Ajouter l'attribut de téléchargement
